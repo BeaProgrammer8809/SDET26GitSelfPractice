@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="74" started-at="2021-12-09T22:00:19 IST" finished-at="2021-12-09T22:00:20 IST">
+  <suite name="Default suite" duration-ms="70" started-at="2021-12-10T18:17:59 IST" finished-at="2021-12-10T18:17:59 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="74" started-at="2021-12-09T22:00:19 IST" finished-at="2021-12-09T22:00:20 IST">
-      <class name="SelfPractice.Sample">
-        <test-method status="PASS" signature="sampleTest()[pri:0, instance:SelfPractice.Sample@7494e528]" name="sampleTest" duration-ms="13" started-at="2021-12-09T22:00:20 IST" finished-at="2021-12-09T22:00:20 IST">
+    <test name="Default test" duration-ms="70" started-at="2021-12-10T18:17:59 IST" finished-at="2021-12-10T18:17:59 IST">
+      <class name="SelfPractice.ReadDataFromCmd">
+        <test-method status="PASS" signature="readTest()[pri:0, instance:SelfPractice.ReadDataFromCmd@6c49835d]" name="readTest" duration-ms="12" started-at="2021-12-10T18:17:59 IST" finished-at="2021-12-10T18:17:59 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sampleTest -->
-      </class> <!-- SelfPractice.Sample -->
+        </test-method> <!-- readTest -->
+      </class> <!-- SelfPractice.ReadDataFromCmd -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
